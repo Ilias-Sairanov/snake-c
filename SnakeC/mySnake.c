@@ -4,7 +4,7 @@
 
 const int WIDTH = 40; // ширина
 const int HEIGHT = 20; // высота
-const int SPEED = 200; // скорость (пауза перед сменой кадров в миллисекундах)
+const int SPEED = 150; // скорость (пауза перед сменой кадров в миллисекундах)
 int gameOver = 0;
 int xPos, yPos; // координаты головы
 int xPrizePos, yPrizePos; // координаты приза
