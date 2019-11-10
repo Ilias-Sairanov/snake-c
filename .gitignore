@@ -1,9 +1,6 @@
-# Ignoring all files in catalogs:
 .vs/
-Debug/
-Release/
-Parser/Debug
-Parser/Release
-# Ignoring all files in all catalogs
+SnakeC/Debug
 *.vcxproj*
 *.txt
+*.ilk
+*.pdb
