@@ -1,3 +1,0 @@
-﻿  mySnake.c
-c:\users\say_i\desktop\git hub\snakec\snakec\mysnake.c(179): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
-  SnakeC.vcxproj -> C:\Users\say_i\Desktop\git hub\SnakeC\Debug\SnakeC.exe
